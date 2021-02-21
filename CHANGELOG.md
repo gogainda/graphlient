@@ -1,5 +1,6 @@
 ### 0.6.0 (Next)
 * Your contribution here.
+* [#83](https://github.com/ashkan18/graphlient/pull/83): Add truffleruby head to ci - [@gogainda](https://github.com/gogainda).
 
 ### 0.5.0 (12/28/2020)
 
